@@ -1,4 +1,4 @@
-# Notepad-clone-Tkinter
+# Notepad-clone-Tkinter..
 
 IT IS A NOTEPAD CLONE WITH FUNCTIONALITIES :
 
